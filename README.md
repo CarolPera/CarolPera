@@ -5,7 +5,7 @@
 - 🔭 Estou atualmente estagiando na PagSeguro PagBank
 - 💻 Meu estudo é focado para o desenvolvimento back-end
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na Faculdade Impacta
-- 🌱 Atualmente estou prendendo a programar principalmente com Java e Kotlin 
+- 🌱 Atualmente estou aprendendo a programar principalmente com Java e Kotlin 
 - 😄 Pronomes: a/ela/dela
 
 ## Algumas estatísticas:
