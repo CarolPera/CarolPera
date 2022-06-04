@@ -3,7 +3,7 @@
 ## Sobre mim:
 
   <div  style="display: inline_block"><br>
-  <img align="right" height="150" width="150" alt="hi" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+  <img align="right" height="140" width="140" alt="hi" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
   </div>
 
 - 🔭 Profissão:             Atuando como engenheira de software junior no PagSeguro PagBank
